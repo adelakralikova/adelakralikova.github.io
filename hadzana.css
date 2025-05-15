@@ -1,0 +1,70 @@
+body {
+    background-color: White;
+}
+.head {
+	position: relative;
+	text-align: center;
+	width: 100%;
+	height: auto;
+}
+.head h1 {
+	border: 5px solid white;
+	position: absolute;
+	top: 10%;
+	left: 36%;
+	color: white;
+	font-size:80px;
+	padding: 5%;
+}
+.head img {
+	width: 100%;
+	height: auto;
+}
+.menu {
+	position:absolute;
+	top: 20px;
+	left: 83%;
+}
+.menu a {
+	color: white;
+	font-size:18px;
+	margin-right: 7px;
+}
+.text {
+	float: left;
+	width: 60%;
+	padding: 2%;
+	font-size:18px;
+	line-height: 1.4;
+}
+.right {
+	width:30%;
+	height:auto;
+	float:right;
+	padding:2%;
+}
+.right img {
+	width: 100%;
+	height:auto;
+}
+.obr3{
+	width:60%;
+	height:auto;
+	padding:2%;
+}
+.left {
+	float: left;
+	width: 30%;
+	height: auto;
+	padding: 2%;
+}
+.left img {
+	width: 100%;
+	height: auto;
+}
+.subtext {
+	float: right;
+	width: 60%;
+	padding: 2%;
+	font-size:18px;
+}
